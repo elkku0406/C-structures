@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582064543 source:c:\c++\h9\main.cpp
+	<iostream>
+	"headeri.h"
+
+1582064217 c:\c++\h9\headeri.h
+
